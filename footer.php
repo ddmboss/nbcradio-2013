@@ -17,7 +17,7 @@
 
 			<div class="site-info">
 				<?php do_action( 'twentythirteen_credits' ); ?><!-- Please don't remove or change the line below -->
-				 Copyright &copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?> - All rights reserved | Website Designed by <a href="<?php echo esc_url( __( 'https://www.delanomaloney.com', 'twentythirteen' ) ); ?>" title="<?php esc_attr_e( 'Delano Maloney Designs', 'nbcradio' ); ?>"><?php printf( __( 'Delano Maloney Designs', 'twentythirteen' ) ); ?></a> and <a href="<?php echo esc_url( __( 'http://www.facebook.com/dirayedesigns', 'twentythirteen' ) ); ?>" title="<?php esc_attr_e( 'DiRaye Designs', 'nbcradio' ); ?>"><?php printf( __( 'DiRaye Designs' ), 'twentythirteen' ); ?></a>
+				 Copyright &copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?> - All rights reserved | Website Designed by <a href="<?php echo esc_url( __( 'https://www.ddmbossdesigns.com', 'twentythirteen' ) ); ?>" title="<?php esc_attr_e( 'Delano Maloney Designs', 'nbcradio' ); ?>"><?php printf( __( 'Delano Maloney Designs', 'twentythirteen' ) ); ?></a> and <a href="<?php echo esc_url( __( 'http://www.facebook.com/dirayedesigns', 'twentythirteen' ) ); ?>" title="<?php esc_attr_e( 'DiRaye Designs', 'nbcradio' ); ?>"><?php printf( __( 'DiRaye Designs' ), 'twentythirteen' ); ?></a>
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
